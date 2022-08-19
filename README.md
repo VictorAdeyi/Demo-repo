@@ -1,3 +1,3 @@
 # Demo-repo
 Demo for Githut video
-for tutorialpurposes
+for tutorial purposes
